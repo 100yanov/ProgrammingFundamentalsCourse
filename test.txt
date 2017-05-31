@@ -1,5 +1,8 @@
 This document is intended for testing purposes! (updated with tortoise)
+
 making an update with tortoise.
+
+Adding an update with bash. 
 
 adding more lines 
 to simulete conflict
