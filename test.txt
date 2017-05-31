@@ -1,2 +1,6 @@
 This document is intended for testing purposes! (updated with tortoise)
 making an update with tortoise.
+
+adding more lines 
+to simulete conflict
+random text here- kljdsbgfklj bgklb (from tortoise)
